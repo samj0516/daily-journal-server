@@ -1,0 +1,1 @@
+from .request import get_all_instructors, get_single_instructor, create_instructor, update_instructor, delete_instructor
